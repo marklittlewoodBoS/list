@@ -1,5 +1,21 @@
 [
   {
+  "name": "Business of Software Conference USA",
+  "topic": "Building great software and great software companies",
+  "url": "http://businessofsoftware.org/?ConferenceRadar",
+  "twitter": "http://twitter.com/BoSConference",
+  "city": "Boston",
+  "stateProvince": "Ma",
+  "country": "USA",
+  "eventStartDate": "2017-09-17T23:00:00.000Z",
+  "eventEndDate": "2017-09-19T23:00:00.000Z",
+  "cfpStartDate": "",
+  "cfpEndDate": "",
+  "codeOfConduct": "",
+  "latitude": 42.3600825,
+  "longitude": -71.0588801
+}
+  {
     "name": "!!Con",
     "topic": "",
     "url": "http://bangbangcon.com/",
